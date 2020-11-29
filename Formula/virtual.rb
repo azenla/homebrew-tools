@@ -2,7 +2,6 @@ class Virtual < Formula
   desc "Linux Virtual Machines for macOS"
   homepage "https://github.com/kendfinger/virtual"
 
-  version "0.0.2"
   url "https://github.com/kendfinger/virtual/releases/download/v0.0.2/virtual"
   sha256 "559f78ae791af6ea2c6eae3ccdafffe221b5df0a582f2928b5119fa99d96d5a0"
 
