@@ -2,8 +2,8 @@ class Metalgpu < Formula
   desc "View Metal GPU information from the command-line"
   homepage "https://github.com/kendfinger/metalgpu"
 
-  url "https://github.com/kendfinger/metalgpu/releases/download/v0.0.1/metalgpu"
-  sha256 "541990c85466ef2d67ef1e64736ff6656074afa41a6c20ac296cc70d6b9d7053"
+  url "https://github.com/kendfinger/metalgpu/releases/download/v0.0.2/metalgpu"
+  sha256 "def8d350bcc6cf645d95f91393eb36b139e7a230bc639df54e0662f44c69478a"
   license "MIT"
 
   def install
