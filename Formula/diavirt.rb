@@ -2,8 +2,8 @@ class Diavirt < Formula
   desc "Do-It-All Virtualization Tool"
   homepage "https://github.com/kendfinger/diavirt"
 
-  url "https://github.com/kendfinger/diavirt/releases/download/v0.0.1/diavirt"
-  sha256 "2a1ba753a28e7bdab206bab38fdef9809a28a73cb2a80c6b32ba1463d440566a"
+  url "https://github.com/kendfinger/diavirt/releases/download/v0.0.2/diavirt"
+  sha256 "851341e5eb25cd33712aef5545c50307188d11933634c92390c78e4c262986ea"
   license "MIT"
 
   def install
